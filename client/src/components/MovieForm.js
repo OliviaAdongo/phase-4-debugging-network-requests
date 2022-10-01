@@ -12,7 +12,7 @@ function MovieForm() {
     category: "",
     discount: false,
     female_director: false,
-  });
+  }); 
 
   function handleSubmit(e) {
     e.preventDefault();
